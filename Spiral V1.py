@@ -32,4 +32,4 @@ while x < 1001:
     c = c + 0.1
     
 
-turtle.exitonclick()
+turtle.extonclick()
