@@ -2,7 +2,7 @@ import turtle
 turtle.setup(width=600, height=500)
 turtle.reset()
 turtle.hideturtle()
-turtle.speed(0)
+turtle.spee(0)
 
 turtle.bgcolor('black')
 
